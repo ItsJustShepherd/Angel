@@ -5,7 +5,8 @@
 <br>
 "<i>Angel - A way to see it all.</i>" <br>
 <br>
-Angel takes advantage of Google Earths .kml files and of Infrastructure network cameras openly accessable through OsInt to give the users of Angel ease-of-access to 3d mapped and overlayed cameras across the United Kingdom with key-cities having their own .kml files, and soon so will states with the end-goal being to map the planet.<br>
+Angel takes advantage of Google Earths .kml files and of Infrastructure network cameras openly accessable through OsInt to give the users of Angel ease-of-access to 3d mapped and overlayed cameras across the United Kingdom with key-cities having their own .kml files, and soon so will states with the end-goal being to map the planet.<br><br>
+I will be releasing a short-blog tutorial on how to map your own cameras and how to find them legally though OsInt too!<br><br>
 <i>If you want to contribute towards it just as others in the CyberSec Communities have, just get in touch through Discord.</i>
 
 <body>
