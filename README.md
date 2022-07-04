@@ -1,13 +1,14 @@
 # Angel - Information. 😇<br>
+<br>
+
 <body>
-    <a href="https://www.codacy.com/gh/ItsJustShepherd/HALO/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ItsJustShepherd/BREACH&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/a7915b01a5a3479f8bc6c014f3f54980"/></a>
-   <p align="center">
+  <p align="center">
+  "<i>Angel - A way to see it all.</i>" <br>
 <br>
-"<i>Angel - A way to see it all.</i>" <br>
-<br>
-Angel takes advantage of Google Earths .kml files and of Infrastructure network cameras openly accessable through OsInt to give the users of Angel ease-of-access to 3d mapped and overlayed cameras across the United Kingdom with key-cities having their own .kml files, and soon so will states with the end-goal being to map the planet.<br><br>
+Angel takes advantage of Google Earths .kml files and of infrastructure network cameras that are openly accessible through OsInt to give the users of Angel ease-of-access to a 3d mapped zones and over layered cameras across the United Kingdom with key-cities having their own .kml files, I'll soon expand development into the United States with the end-goal being to map the planet!<br><br>
 I will be releasing a short-blog tutorial on how to map your own cameras and how to find them legally though OsInt too!<br><br>
 <i>If you want to contribute towards it just as others in the CyberSec Communities have, just get in touch through Discord.</i>
+</body>
 
 <body>
   <p align="center">
